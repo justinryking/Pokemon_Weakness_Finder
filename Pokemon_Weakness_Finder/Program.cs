@@ -5,7 +5,6 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using PokeApiNet; //nuget package for all pokemon
-using Newtonsoft.Json; //I dont think im using this
 using Type = PokeApiNet.Type;
 
 namespace Pokemon_Weakness_Finder

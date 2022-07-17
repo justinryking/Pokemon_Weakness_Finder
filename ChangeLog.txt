@@ -1,0 +1,22 @@
+Suggested 
+		7/17/22  5:32PM
+
+	* Learn Markdown 
+
+	* Create Loop that returns user to input prompt after invaild input is submitted
+
+	* Create Loop that returns user to input prompt after valid input is submitted 
+
+	* Case and Sensetive Checking before submitting inputs  (Force Inputs to Lowercase and remove invalid Unicode/ Spaces)   Data Sanitizing   "use .Trim "
+
+	* Optimize Code (Faster Algorithm, Less Memory Usage, Smaller Code)
+
+Implemented 
+
+		7/17/22  5:32PM
+
+	* Removed Redundant Library : Newtonsoft.Json
+
+	* Added Changelog : The one you're reading now  (👍 ͡❛ ͜ʖ ͡❛)👍
+
+	* Used Emoticons : https://fsymbols.com/emoticons/
